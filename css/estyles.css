@@ -1,5 +1,5 @@
 body{
-
+    background: black;
     color: blueviolet;
     text-aling: center;
     font-family: Arial;
@@ -15,6 +15,10 @@ body{
     margin: 0;
     padding: 0.5em;
 
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera tagliwer{
 
@@ -33,4 +37,9 @@ body{
 #container h1{
 
     font-size: 1em;
+}
+#post{
+    background:white;
+
+    padding: 1em;
 }
