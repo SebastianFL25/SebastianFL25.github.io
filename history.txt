@@ -7,3 +7,7 @@ master
 master 2
 invent 1
 
+<<<<<<< HEAD
+=======
+invent 2
+>>>>>>> 34f0d1b (invent 2)
